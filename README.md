@@ -27,7 +27,7 @@
 
 ---
 
-4 years building frontend products — web and mobile. I've grown from converting Figma designs into production UIs to **leading full product revamps**, making architecture calls, and keeping codebases healthy long-term.
+4 years of frontend — primarily web, with some mobile. I've led end-to-end product revamps, matured architectures that had grown without clear patterns, and have a proven track record in performance: Lighthouse from 35 → 80–90 across a public-facing platform. I care about scalable patterns and leaving things better than I found them.
 
 Most of my work lives in **React and Next.js** on the web side and **React Native** on mobile. I care about the things that are easy to skip — proper **test coverage on critical paths**, analytics that actually inform decisions, and **documentation** so teams don't bottleneck on one person.
 
