@@ -1,95 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Abdul%20Rehman&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=10" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+React+Native;4+years+building+products+that+ship" alt="Typing SVG" />
+
+# Abdul Rehman
+### Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React Native
+
+<a href="https://www.linkedin.com/in/abddull-rehmann/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:abddullrehmann@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="http://aliflaila.app/">
+  <img src="https://img.shields.io/badge/AlifLaila-1a73e8?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
 
 ---
 
-I'm a frontend engineer with 4 years of experience — starting from converting Figma files into pixel-perfect UIs and growing into leading full product revamps, architecting React Native apps from scratch, and making the kind of decisions that affect how real users interact with a product daily.
+4 years building frontend products — web and mobile. I've grown from converting Figma designs into production UIs to **leading full product revamps**, making architecture calls, and keeping codebases healthy long-term.
 
-I've migrated 130+ page Next.js codebases, pushed Lighthouse scores from the 30s into the 80–90 range, built offline-first mobile apps, and written the testing and documentation habits that keep teams moving fast without breaking things. I also think carefully about how AI coding tools fit into a real team's workflow — not just prompting ad hoc, but setting conventions that actually scale.
+Most of my work lives in **React and Next.js** on the web side and **React Native** on mobile. I care about the things that are easy to skip — proper **test coverage on critical paths**, analytics that actually inform decisions, and **documentation** so teams don't bottleneck on one person.
 
-The math degree (Linear Algebra, Calculus, Probability Theory) shows up more than you'd expect — in how I reason about rendering pipelines, state modeling, and performance tradeoffs.
-
-<br/>
+I also have a background in **Mathematics** (Linear Algebra, Calculus, Probability Theory) — it shows up more than expected in how I reason about performance and state.
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 <br/>
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
 
 **Frameworks & Libraries**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
 
 **Styling & UI**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css&theme=dark" />
 
 **Mobile**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  &nbsp;<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48" />
-  &nbsp;<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" />
-</p>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/React%20Native-1a73e8?style=flat-square&logo=react&logoColor=white" height="46" />
+&nbsp;<img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=white" height="46" />
 
 **Tooling & Platform**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vite,webpack,vercel,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,vite,webpack,vercel,aws&theme=dark" />
 
 **Testing & Analytics**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-  &nbsp;<img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" height="48" />
-  &nbsp;<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" height="48" />
-</p>
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/PostHog-333?style=flat-square&logo=posthog&logoColor=white" height="46" />
+&nbsp;<img src="https://img.shields.io/badge/Google%20Analytics-1a73e8?style=flat-square&logo=googleanalytics&logoColor=white" height="46" />
 
 <br/>
 
 ---
 
-## 📬 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/abddull-rehmann/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:abddullrehmann@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="http://aliflaila.app/">
-    <img src="https://img.shields.io/badge/AlifLaila-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+<sub>Open to interesting problems · <a href="mailto:abddullrehmann@gmail.com">abddullrehmann@gmail.com</a></sub>
 </div>
-
-
