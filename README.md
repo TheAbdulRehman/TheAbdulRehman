@@ -72,5 +72,5 @@ I also have a background in **Mathematics** (Linear Algebra, Calculus, Probabili
 ---
 
 <div align="center">
-<sub>Open to interesting problems · <a href="mailto:abddullrehmann@gmail.com">abddullrehmann@gmail.com</a></sub>
+<sub>Open to interesting problems · <a href="mailto: abdulrahman693.693@gmail.com">abdulrahman693.693@gmail.com</a></sub>
 </div>
